@@ -1,0 +1,48 @@
+.container {
+    padding-top: 50px;
+}
+
+.card-header {
+    position: relative;
+    bottom: 60px;
+    box-shadow: 1px 1px 10px grey;
+    background-image: linear-gradient(45deg, rgb(223, 0, 223), rgb(155, 155, 252));
+}
+
+.fab {
+    box-shadow: 10px 10px 10px grey;
+}
+
+.bigger {
+    resize: auto;
+    border-radius: 50%;
+    background: white 0.1;
+    text-align: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: block;
+    font-size: larger;
+    padding: 0.3rem;
+    box-shadow: 5px 3px 10px white;
+}
+
+.bigger-blue {
+    resize: auto;
+    border-radius: 50%;
+    background: rgb(38, 0, 207);
+    text-align: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: block;
+    font-size: larger;
+    padding: 0.3rem;
+    box-shadow: 5px 3px 10px white;
+}
+
+.tw {
+    background: rgb(118, 150, 255);
+}
+
+.gm {
+    background: red;
+}
